@@ -32,7 +32,7 @@ namespace QuickGraph
             this.source = source;
             this.target = target;
             this.tag = tag;
-            this.TagChanged = null;
+            TagChanged = null;
         }
 
         public TVertex Source
