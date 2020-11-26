@@ -1,0 +1,12 @@
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\bin\Debug\net45\Sandwych.QuickGraph.Data.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\bin\Debug\net45\Sandwych.QuickGraph.Data.pdb
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\bin\Debug\net45\Sandwych.QuickGraph.Core.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\bin\Debug\net45\Sandwych.QuickGraph.Graphviz.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\bin\Debug\net45\Sandwych.QuickGraph.Core.pdb
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\bin\Debug\net45\Sandwych.QuickGraph.Graphviz.pdb
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\obj\Debug\net45\Sandwych.QuickGraph.Data.csprojAssemblyReference.cache
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\obj\Debug\net45\Sandwych.QuickGraph.Data.AssemblyInfoInputs.cache
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\obj\Debug\net45\Sandwych.QuickGraph.Data.AssemblyInfo.cs
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\obj\Debug\net45\Sandwych.QuickGraph.Data.csproj.CopyComplete
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\obj\Debug\net45\Sandwych.QuickGraph.Data.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Data\obj\Debug\net45\Sandwych.QuickGraph.Data.pdb

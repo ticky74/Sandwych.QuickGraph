@@ -1,0 +1,11 @@
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Serialization.deps.json
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Serialization.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Serialization.pdb
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Core.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Core.pdb
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Serialization.csprojAssemblyReference.cache
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Serialization.AssemblyInfoInputs.cache
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Serialization.AssemblyInfo.cs
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Serialization.csproj.CopyComplete
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Serialization.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Serialization\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Serialization.pdb

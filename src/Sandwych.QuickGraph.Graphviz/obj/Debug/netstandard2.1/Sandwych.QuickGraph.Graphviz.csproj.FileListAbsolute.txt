@@ -1,0 +1,12 @@
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.deps.json
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.pdb
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Core.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\bin\Debug\netstandard2.1\Sandwych.QuickGraph.Core.pdb
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.csprojAssemblyReference.cache
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.AssemblyInfoInputs.cache
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.AssemblyInfo.cs
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.csproj.CoreCompileInputs.cache
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.csproj.CopyComplete
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.dll
+C:\src\Kelso\Sandwych.QuickGraph\src\Sandwych.QuickGraph.Graphviz\obj\Debug\netstandard2.1\Sandwych.QuickGraph.Graphviz.pdb
